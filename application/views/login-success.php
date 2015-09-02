@@ -1,0 +1,1 @@
+<h2 align="center"><a href="<?php echo base_url() ?>admin/manage">登录成功，点击管理</a></h2>
